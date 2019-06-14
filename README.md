@@ -6,30 +6,34 @@ This exercise demonstrates state management within a simple React application.
 
 ## How to run the app
 
-Clone the repo: `git clone https://github.com/ryanfuhrman/state-clicker.git`
+### Clone the repo: 
 
-Navigate into the directory `cd state-clicker`
+`git clone https://github.com/ryanfuhrman/state-clicker.git`
 
-Install dependencies\
+###Navigate into the directory `cd state-clicker`
 
-    If using `npm`\
+### Install dependencies
+
+If using `npm`:
     
-        `npm install` or `npm i`\
+`npm install` or `npm i`
         
-    If using `yarn`\
+If using `yarn`:
     
-        `yarn install`
+`yarn install`
 
 
-Start up the client\
+### Start up the client
 
-    For `npm`\
+For `npm`:
     
-        `npm run start`\
+`npm run start`
         
-    For `yarn`\
+For `yarn`:
     
-        `yarn start`
+`yarn start`
         
 
-Open the site in your browswer type or paste: `localhost:3000/` into the url bar.
+### Open the site
+
+Visit `localhost:3000/` in the browser of your choice.
