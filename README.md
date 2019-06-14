@@ -1,6 +1,6 @@
 # state-clicker
 
-State Clicker exercise as part of Colt Steele's The Modern React Bootcamp course.
+State Clicker exercise as part of [Colt Steele's The Modern React Bootcamp](https://www.udemy.com/modern-react-bootcamp/) course.
 
 This exercise demonstrates state management within a simple React application.
 
