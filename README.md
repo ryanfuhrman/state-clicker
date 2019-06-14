@@ -10,7 +10,7 @@ Clone the repo: `git clone https://github.com/ryanfuhrman/state-clicker.git`
 
 Navigate into the directory `cd state-clicker`
 
-Install dependencies \
+Install dependencies\
 
     If using `npm`\
     
@@ -21,7 +21,7 @@ Install dependencies \
         `yarn install`
 
 
-Start up the client \
+Start up the client\
 
     For `npm`\
     
