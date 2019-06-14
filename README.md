@@ -14,12 +14,12 @@ Install dependencies\
   If using `npm`\
     `npm install` or `npm i`\
   If using `yarn`\
-    `yarn install`\
+    `yarn install`
 
 Start up the client \
   For `npm`\
     `npm run start`\
   For `yarn`\
-    `yarn start`\
+    `yarn start`
 
 Open the site in your browswer type or paste: `localhost:3000/` into the url bar.
